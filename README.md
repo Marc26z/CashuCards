@@ -7,3 +7,15 @@ https://marc26z.npub.pro/post/introducing-cashu-cards-greeting-cards-that-pay-bi
 
 **Got an idea for a card?**
 Create an issue or make a pull request. :)
+## How It Works:
+I wrote some birthday cards and used AI to generate the images for my text. Here is how to use them:
+
+1. Download the card.
+2. Print the card on a color printer using double-sided portrait mode.
+3. Cut the cards in half.
+4. Create [cashu](https://cashu.space/)
+5. Turn the cashu into a QR code. I use [QtQR](https://github.com/ralgozino/qtqr)
+6. Adjust the size to ensure it fits onto the card.
+7. Print the QR code onto a piece of paper
+8. Cut and paste the paper QR code onto the card.
+9. Place the card into an envelope and give it to someone. I use 4.37x5.75 envelopes.
