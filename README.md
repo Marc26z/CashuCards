@@ -35,7 +35,9 @@ Zap this to support the creator of [Cashu, Bitpopart, and Marc](https://nostree.
  I currently have images for the front and back of a card. You can cut them yourself or buy Avery 5163 cards if you prefer. First print the front.
  In my inkjet printer, I place the printed paper back in the tray front side up. Then I print the back side. Printers may very. It's a good idea to print a test page to verify how your printer works.
 
- The **gift cards were created using glabels** which can be found at https://github.com/jimevins/glabels-qt.
+Gift Cards/Cashu tokens can be printed from this website:
+nostr://npub1wwkzumrlqt6p9rfre7r8gvw0mpzvnhxfxapm9fyqzund9fv7xrxqw6ezdp/git.shakespeare.diy/cashu-cards
+Just add the cashu token from an app like MiniBits or any Cashu Wallet. Need a Cashu wallet? Find one at https://github.com/cashubtc/awesome-cashu
 
  ### How To Add E Cash
  I print QR codes on sticker paper and affix them using sticker paper or a glue stick.
