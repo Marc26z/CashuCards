@@ -8,7 +8,10 @@ https://marc26z.npub.pro/post/introducing-cashu-cards-greeting-cards-that-pay-bi
 **Got an idea for a card? Please Contribute!**
 Create an issue or make a pull request. :)
 ## How It Works:
-I wrote some birthday cards ~~and used AI to generate the images for my text~~. [Nostr](https://nostr.how) native artist, [Bitpopart](https://nostree.me/npub1gwa27rpgum8mr9d30msg8cv7kwj2lhav2nvmdwh3wqnsa5vnudxqlta2sz) saw the project and drew some cashu cartoon characters and shared them with me on nostr. He also transforms the text. 
+I wrote some birthday cards ~~and used AI to generate the images for my text~~. [Nostr](https://nostr.how) native artist, [Bitpopart](https://nostree.me/npub1gwa27rpgum8mr9d30msg8cv7kwj2lhav2nvmdwh3wqnsa5vnudxqlta2sz) saw the project and drew some cashu cartoon characters and shared them with me on nostr. He also transforms the text. QR codes can be reated and personalized at:
+
+- https://2vsdx8bo4keyoszc6vs7h3t1071y3bazlqsk66adasjyz7rdn0cashucards.nosto.re/
+- https://cashucards.shakespeare.wtf/
 
 
 
@@ -17,12 +20,11 @@ Here is how to use them:
 1. Download the card.
 2. Print the card on a color printer using double-sided portrait mode.
 3. Cut the cards in half.
-4. Create [cashu](https://cashu.space/)
-5. Turn the cashu into a QR code. I use [QTQR](https://github.com/ralgozino/qtqr)
-6. Adjust the size to ensure it fits onto the card.
-7. Print the QR code onto a piece of paper
-8. Cut and paste the paper QR code onto the card.
-9. Place the card into an envelope and give it to someone. I use 4.37x5.75 envelopes.
+4. Create [cashu](https://cashu.space/). I use the MiniBitsWallet.
+5. Turn the cashu into a QR code by [pasting Cashu into this website](https://2vsdx8bo4keyoszc6vs7h3t1071y3bazlqsk66adasjyz7rdn0cashucards.nosto.re/):  ~~I use [QTQR](https://github.com/ralgozino/qtqr)~~ 
+6. Print the QR code onto a piece of paper
+7. Cut and paste the paper QR code onto the card.
+8. Place the card into an envelope and give it to someone. I use 4.37x5.75 envelopes.
 
 ### Support
 Special thanks to BitPopArt made some [really cool and cute cashu cartoon characters!](https://njump.me/nevent1qvzqqqqqqypzqsa64uxz3ek0kx2mzlhqs0seavay4l06c4xek6a0zup8pmge8c6vqyfhwumn8ghj7ur4wfcxcetsv9njuetn9uq3samnwvaz7tmrwfjkzarj9ehx7um5wgh8w6twv5hsqgyemu0sa2ddxva7uqe3tlq5y5hceyad8456f7updgfs4mtuw5njhqzedkwq)
