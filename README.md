@@ -1,58 +1,37 @@
 # CashuCards
 **Greeting Cards give bitcoin using the Cashu protocol.**
 
-![Birthday Card](https://github.com/Marc26z/CashuCards/blob/main/GreetingCards%2FBirthdayCardCover.jpg)
+![Birthday Card]([https://github.com/Marc26z/CashuCards/blob/main/GreetingCards%2FBirthdayCardCover.jpg](https://blossom.primal.net/36dd748164da601cc96f2b1875dea7b6d71f13099487f6554f3c0b2074c0771a.png)
 
 I wrote about creating greeting cards designed to pay people in bitcoin with Cashu. I plan on selling these, but I like the ethos of open source so I decided to open source my cards. I will still sell them, but I also want people to create cards themselves. That will get more sats in the hands of more nieces and nephews. That's the ultimate goal really.
 
 https://marc26z.npub.pro/post/introducing-cashu-cards-greeting-cards-that-pay-bitcoin/
+## Create Your Own Cashu Cards
+![card maker image]([https://raw.githubusercontent.com/Marc26z/fullReserveBitcoin/75d056557c30c7a35c46480f2288ad6633a3bd56/blog/assets/cashu2.png](https://github.com/Marc26z/fullReserveBitcoin/blob/main/blog/assets/CashuCards.png?raw=true)
 
-**Got an idea for a card? Please Contribute!**
-Create an issue or make a pull request. :)
-## How It Works:
-I wrote some birthday cards ~~and used AI to generate the images for my text~~. [Nostr](https://nostr.how) native artist, [Bitpopart](https://nostree.me/npub1gwa27rpgum8mr9d30msg8cv7kwj2lhav2nvmdwh3wqnsa5vnudxqlta2sz) saw the project and drew some cashu cartoon characters and shared them with me on nostr. He also transforms the text. QR codes can be reated and personalized at:
-
-- https://2vsdx8bo4keyoszc6vs7h3t1071y3bazlqsk66adasjyz7rdn0cashucards.nosto.re/
-- https://cashucards.shakespeare.wtf/
+**You can [make your own Cashu Cards using this website](https://cashu-cards.shakespeare.wtf/)**
 
 
 
-Here is how to use them:
-
-1. Download the card.
-2. Print the card on a color printer using double-sided portrait mode.
-3. Cut the cards in half.
-4. Create [cashu](https://cashu.space/). I use the MiniBitsWallet.
-5. Turn the cashu into a QR code by [pasting Cashu into this website](https://2vsdx8bo4keyoszc6vs7h3t1071y3bazlqsk66adasjyz7rdn0cashucards.nosto.re/):  ~~I use [QTQR](https://github.com/ralgozino/qtqr)~~ 
-6. Print the QR code onto a piece of paper
-7. Cut and paste the paper QR code onto the card.
-8. Place the card into an envelope and give it to someone. I use 4.37x5.75 envelopes.
+[Read more here](https://habla.news/marc/how-to-make-cashu-cards-and-redeem-bitcoin-from-cashu-tokens)
 
 ### Support
 Special thanks to BitPopArt made some [really cool and cute cashu cartoon characters!](https://njump.me/nevent1qvzqqqqqqypzqsa64uxz3ek0kx2mzlhqs0seavay4l06c4xek6a0zup8pmge8c6vqyfhwumn8ghj7ur4wfcxcetsv9njuetn9uq3samnwvaz7tmrwfjkzarj9ehx7um5wgh8w6twv5hsqgyemu0sa2ddxva7uqe3tlq5y5hceyad8456f7updgfs4mtuw5njhqzedkwq)
 
-Zap this to support the creator of [Cashu, Bitpopart, and Marc](https://nostree.me/npub1gwa27rpgum8mr9d30msg8cv7kwj2lhav2nvmdwh3wqnsa5vnudxqlta2sz). 
 
- ### How To Print The Gift Cards:
- I currently have images for the front and back of a card. You can cut them yourself or buy Avery 5163 cards if you prefer. First print the front.
- In my inkjet printer, I place the printed paper back in the tray front side up. Then I print the back side. Printers may very. It's a good idea to print a test page to verify how your printer works.
+ ### Cashu Card Tutorial
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/XwQG2H-AutY?si=oMQOIbZFnlxC6tuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Gift Cards/Cashu tokens can be printed from this website:
-nostr://npub1wwkzumrlqt6p9rfre7r8gvw0mpzvnhxfxapm9fyqzund9fv7xrxqw6ezdp/git.shakespeare.diy/cashu-cards
-Just add the cashu token from an app like MiniBits or any Cashu Wallet. Need a Cashu wallet? Find one at https://github.com/cashubtc/awesome-cashu
 
- ### How To Add E Cash
- I print QR codes on sticker paper and affix them using sticker paper or a glue stick.
+
 
  #### Disclaimer:
- Cashu is in the very early days. These cards are designed for small amounts of bitcoin to be given away as gifts. It is non-custodial bitcoin that can be redeemed for bitcoin onto your own wallet over the lightning network much like a check from a bank can be redeemed or cash. Please do not use this for serious money as it is in the experimental stage of development. **It is not suitable for your life's savings**. Never put more money into cashu than you are prepared to lose.
+Cashu is in the very early days. These cards are designed for small amounts of bitcoin to be given away as gifts. It is non-custodial bitcoin that can be redeemed for bitcoin onto your own wallet over the lightning network much like a check from a bank can be redeemed or cash. Please do not use this for serious money as it is in the experimental stage of development. **It is not suitable for your life's savings**. Never put more money into cashu than you are prepared to lose.
 
  ##### Resources:
  - https://nakamotoinstitute.org/library/bitcoin/
  - https://lightning.network/lightning-network-paper.pdf
  - https://cashu.space/
  - https://docs.cashu.space/resources/learn
-   **Wallets:**
- - https://macadamia.cash/
- - https://www.minibits.cash/
+ - https://github.com/cashubtc/awesome-cashu
  
