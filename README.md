@@ -20,8 +20,7 @@ Special thanks to BitPopArt made some [really cool and cute cashu cartoon charac
 
 
  ### Cashu Card Tutorial
- <iframe width="560" height="315" src="https://www.youtube.com/embed/XwQG2H-AutY?si=oMQOIbZFnlxC6tuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=XwQG2H-AutY&t=2s
 
 
 
