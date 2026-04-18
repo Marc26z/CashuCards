@@ -1,7 +1,7 @@
 # CashuCards
 **Greeting Cards give bitcoin using the Cashu protocol.**
 
-![Birthday Card]([https://github.com/Marc26z/CashuCards/blob/main/GreetingCards%2FBirthdayCardCover.jpg](https://blossom.primal.net/36dd748164da601cc96f2b1875dea7b6d71f13099487f6554f3c0b2074c0771a.png)
+![Birthday Card](https://github.com/Marc26z/CashuCards/blob/main/GreetingCards%2FBirthdayCardCover.jpg)
 
 I wrote about creating greeting cards designed to pay people in bitcoin with Cashu. I plan on selling these, but I like the ethos of open source so I decided to open source my cards. I will still sell them, but I also want people to create cards themselves. That will get more sats in the hands of more nieces and nephews. That's the ultimate goal really.
 
