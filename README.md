@@ -9,7 +9,7 @@ https://marc26z.npub.pro/post/introducing-cashu-cards-greeting-cards-that-pay-bi
 ## Create Your Own Cashu Cards
 ![card maker image]([https://raw.githubusercontent.com/Marc26z/fullReserveBitcoin/75d056557c30c7a35c46480f2288ad6633a3bd56/blog/assets/cashu2.png](https://github.com/Marc26z/fullReserveBitcoin/blob/main/blog/assets/CashuCards.png?raw=true)
 
-**You can [make your own Cashu Cards using this website](https://cashu-cards.shakespeare.wtf/)**
+**You can [make your own Cashu Cards using this website](https://cashucards.funwuthfreedomtech.com)**
 
 
 
